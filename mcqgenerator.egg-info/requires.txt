@@ -9,5 +9,3 @@ huggingface_hub
 accelerate
 sentencepiece
 bitsandbytes
-
--e .

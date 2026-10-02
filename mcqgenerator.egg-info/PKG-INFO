@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.1
+Summary: A Python package for generating multiple-choice questions using LLMs and LangChain.
+Author: Kannan M
+Author-email: kannandeveloper1771@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: huggingface_hub
+Requires-Dist: accelerate
+Requires-Dist: sentencepiece
+Requires-Dist: bitsandbytes
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
